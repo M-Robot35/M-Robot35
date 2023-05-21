@@ -1,0 +1,36 @@
+@import url("header.css");
+@import url("main.css");
+@import url("conteudo.css");
+@import url("github.css");
+@import url("animation.css");
+@import url("media.css");
+
+:root{
+    --fundo-total:black;
+    --text-all: white;
+    --text-ligh: lightgray;
+    --border-blue:blue;
+    --border-violet:blueviolet;
+}
+
+
+*{
+    border: none;
+    padding: none;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: all 0.3;
+    outline: none;
+}
+
+body{
+    min-height: 100vh;
+    background-color: var(--fundo-total);
+    color: var(--text-all);
+    max-width: 1400px;
+    margin: 0 auto;    
+}
+
+main{
+    padding: 20px 10px;
+}

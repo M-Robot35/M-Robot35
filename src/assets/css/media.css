@@ -1,0 +1,89 @@
+
+@media only screen and (max-width: 600px) {
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+    #conteiner-descricao{
+        width: 100%;
+    }
+
+    #conteiner-descricao p{
+        font-size: 1rem;
+    }
+
+    #sidebar-tecnologias{
+        display: flex;
+        gap: 10px;
+        justify-content: space-between;
+    }
+    
+    .accordion-body{
+        margin: 0 auto;
+        position: relative;
+    }
+
+    /* conteiner de hora */
+    #year{
+        display: none;
+    }
+
+    .clock{
+        height: 3rem;
+    }
+
+    /* acordemon de tecnologias */
+
+    .accordion-body{
+        position: relative;
+    }
+    
+    /* CARDS */
+    .github-repositories{
+        display: grid;
+        grid-template-columns: repeat(2, 11rem);
+        position: relative;
+        justify-content: space-between;
+    }      
+
+    .card img{
+        width: 4rem;
+    }
+
+    .list-group-item{
+        display: inline-block;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .titulo-style{
+        font-size: 1rem;
+        border: none;
+        border-bottom: 1px solid var(--border-violet);
+        border-radius: 0;
+        box-shadow: none;    
+    }
+
+    #list-habilit{
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    #list-items{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    
+
+  }
+
+@media only screen and (max-width:800px){
+    /* IMAGEM COMPOSER */
+    #img-composer{
+        display: none;
+    }
+}

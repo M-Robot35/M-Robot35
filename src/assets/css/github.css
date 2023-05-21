@@ -1,0 +1,41 @@
+
+.github-repositories{
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    gap: 10px;
+}
+
+.github-item{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.text-git-card{
+    font-size: 1rem;
+}
+
+.card-title{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow-x: hidden;
+}
+
+.github-item > h5{
+    color: var(--border-blue);
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow-x: hidden;
+}
+
+.accordion-item{
+    background: black;
+}
+
+
+
+

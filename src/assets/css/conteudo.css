@@ -1,0 +1,56 @@
+.titulo-style{
+    display: inline-block;
+    padding: 5px 20px;
+    border-bottom: 1px solid var(--border-violet);
+    position: relative;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.conteiner-style{
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom:20px ;
+}
+
+.conteiner-style p {
+    max-width: 70%;
+    padding: 10px;
+    font-size: 1.5rem;    
+}
+
+.size-image{
+    width: 100px;
+    margin: 0 auto;
+}
+
+.card, .list-group-item  {
+    background-color: black;
+    color: var(--border-blue);
+}
+
+/* HABILIDADES  */
+#list-habilit{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+#list-items{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* IMAGEM COMPOSER */
+#img-composer img{
+    transform: translateY(0px);
+    animation: flutuar 5s infinite linear alternate-reverse;
+}
+
+@keyframes flutuar{
+    to{
+        transform: translateY(20px);
+    }
+
+}

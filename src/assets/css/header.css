@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    background-color: blueviolet;
+    color: white;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.nav-title{
+    color: white;
+}
+
+.nav-links a {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: white;
+}
+
+.nav-links a:hover {
+    background-color: rgb(156, 78, 229);
+}
+

@@ -1,0 +1,67 @@
+main{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+}
+
+#sidebar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    position: relative;    
+}
+
+#sidebar img{
+    width: 170px;
+    border: 1px solid lightblue;
+    border-radius: 50%;
+}
+
+#sidebar p{
+    font-size: 0.8em;
+}
+
+#sidebar-tecnologias{
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: auto;
+    gap: 10px;
+}
+
+#sidebar-tecnologias a{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    scale: 1.5;
+    transition: all 0.3s linear;    
+}
+
+#sidebar-tecnologias a:hover{
+    transform: translateY(-5px);    
+}
+
+#nome-user h6{
+    color: var(--text-ligh);
+    line-height: 2px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+/* SIDEBAR  REDES SOCIAIS */
+
+.redes-sociais{
+    display: flex;
+    text-decoration: none;
+    gap: 20px;
+}
+
+.redes-sociais span svg{
+    font-size: 20px;
+}
+
+.clock h1{
+    font-size: 1rem;
+    text-align: center;
+}
