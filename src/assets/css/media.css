@@ -4,15 +4,22 @@
         display: flex;
         flex-direction: column;
     }
+
     #conteiner-descricao{
         width: 100%;
         padding: 0 10px;
+        font-size: 1.5rem;
     }
 
     #conteiner-descricao p{
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
+    #nome-user h2{
+        font-size: 3rem;
+    }
+
+  
     #sidebar-tecnologias{
         display: flex;
         gap: 10px;
@@ -30,7 +37,11 @@
     }
 
     .clock{
-        height: 3rem;
+        height: 3rem;        
+    }
+
+    #hora{
+        font-size: 2rem;
     }
 
     /* acordemon de tecnologias */
@@ -59,12 +70,16 @@
     }
 
     .titulo-style{
-        font-size: 1rem;
+        font-size: 2.5rem;
         border: none;
         border-bottom: 1px solid var(--border-violet);
         border-radius: 0;
         box-shadow: none;    
     }
+
+    .conteiner-style{
+        font-size: 1.5rem;
+    }    
 
     #list-habilit{
         display: flex;
@@ -72,6 +87,11 @@
         gap: 25px;
     }
 
+    .redes-sociais{
+        margin-bottom: 2rem;
+        font-size: 2rem;
+    }
+    
     #list-items{
         display: flex;
         flex-direction: column;
