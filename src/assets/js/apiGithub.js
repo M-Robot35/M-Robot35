@@ -18,7 +18,9 @@ const params= {
     "laravel":{
         "imgUrl":"https://e7.pngegg.com/pngimages/719/649/png-clipart-laravel-software-framework-php-web-framework-model-view-controller-framework-angle-text.png"
     },
-    
+    "scss":{
+        "imgUrl":"https://cdn-icons-png.flaticon.com/512/5968/5968358.png"
+    }    
 }
 
 function gitHubApi(){
