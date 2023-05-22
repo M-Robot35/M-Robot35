@@ -13,6 +13,9 @@
     --border-violet:blueviolet;
 }
 
+html{
+    font-size: 62.5%;
+}
 
 *{
     border: none;
@@ -24,13 +27,15 @@
 }
 
 body{
-    min-height: 100vh;
+    max-width: 1200px;
+    height: 100vh;
     background-color: var(--fundo-total);
     color: var(--text-all);
-    max-width: 1400px;
-    margin: 0 auto;    
+    margin: 0 auto;   
+    overflow-x: hidden; 
 }
 
 main{
     padding: 20px 10px;
+    
 }

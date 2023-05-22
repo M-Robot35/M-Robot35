@@ -1,7 +1,7 @@
 
 .github-repositories{
     display: grid;
-    grid-template-columns: repeat(3, 300px);
+    grid-template-columns: repeat(3, 15rem);
     justify-content: space-around;
     margin: 0 auto;
     padding: 10px;

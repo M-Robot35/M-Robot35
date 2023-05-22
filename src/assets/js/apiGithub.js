@@ -20,7 +20,8 @@ const params= {
     },
     "scss":{
         "imgUrl":"https://cdn-icons-png.flaticon.com/512/5968/5968358.png"
-    }    
+    } 
+    
 }
 
 function gitHubApi(){
@@ -50,7 +51,7 @@ const formarHtml = (apiResult)=>{
          
         let html = `
         <div class="card tilt-in-bl">
-            <img title='${items['description']}' src="${params[linguagem]['imgUrl']}" class="card-img-top size-image" alt="imagem">
+            <img title='${items['description']}' src="${params[linguagem]['imgUrl']}" class="card-img-top size-image" alt="Python">
             <div class="card-body">
                 <h5 title='${items['name']}' class="card-title">${items['name']}</h5>
             </div>
