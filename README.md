@@ -1,11 +1,25 @@
 ## Oiii eu sou Thiago Teles, desenvolvedor Back-End !
 
 
+ 
+###  Mais sobre mim 
+
+
+-  Meu primeiro contato com programação foi em 2021 , ta mais relacionado a logica, porem gostava de criar macros/bots pra facilita a vida em tudo, desde jogos a trabalhos.
+-  Gosto de passar meu tempo livre jogando, mas alem disso, Leio manga, assisto animes e pratico esportes como basquete e stand up pedal.
+-  Gosto muito de aprender novas tecnologias, e ficar sabendo sobre as novidades, para ter inspirações nós meus projetos.
+-  Gosto muito de dias frios e nublados pra fica todo coberto com filme e pipoca. 
+
+ <br>
+ <br>
+
+</div>
+
 
 <p align="center">
 <a href="https://github.com/GoldFNX">
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-Robot35&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryanrobert1227&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-Robot35&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -28,20 +42,6 @@
   <a href="https://www.instagram.com/thiagot.2021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/thiagoteles86" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiago.teles725@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiago-teles-a454ab238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-
- 
-###  Mais sobre mim 
-
-
--  Meu primeiro contato com programação foi em 2021 aos  16 anos, ta mais relacionado a logica, porem gostava de criar macros/bots pra facilita a vida em tudo, desde jogos a trabalhos.
--  Gosto de passar meu tempo livre jogando, mas alem disso, Leio manga, assisto animes e pratico esportes como basquete e stand up pedal.
--  Gosto muito de dias frios e nublados pra fica todo coberto com filme e pipoca. 
-
- <br>
- <br>
-
 </div>
