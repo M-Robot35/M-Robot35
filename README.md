@@ -2,13 +2,16 @@
 
 
  
-###  Mais sobre mim 
+Olá! 👋 Eu sou entusiasta da Tecnologia e Desenvolvimento!
+🌟 Desde 2021, mergulhei no mundo da programação, inicialmente explorando a lógica por trás dela. Minha jornada começou com a criação de macros e bots para simplificar e automatizar tarefas em diversas áreas, desde jogos até fluxos de trabalho.
 
+🚀 Estou sempre em busca de aprender e dominar novas tecnologias. Meu entusiasmo pela inovação me mantém atualizado com as últimas tendências, inspirando meus projetos e impulsionando soluções criativas.
 
--  Meu primeiro contato com programação foi em 2021 , ta mais relacionado a logica, porem gostava de criar macros/bots pra facilita a vida em tudo, desde jogos a trabalhos.
--  Gosto de passar meu tempo livre jogando, mas alem disso, Leio manga, assisto animes e pratico esportes como basquete e stand up pedal.
--  Gosto muito de aprender novas tecnologias, e ficar sabendo sobre as novidades, para ter inspirações nós meus projetos.
--  Gosto muito de dias frios e nublados pra fica todo coberto com filme e pipoca. 
+💻 Além de meu compromisso com a programação, meu tempo livre é frequentemente ocupado jogando e explorando mangás e animes. Para manter um equilíbrio saudável, pratico esportes como basquete e stand up pedal.
+
+❄️ Meu refúgio ideal? Dias frios e nublados, perfeitos para se envolver com código, um bom filme e uma tigela de pipoca.
+
+Estou ansioso para contribuir e colaborar em projetos empolgantes na área da tecnologia, trazendo minha paixão e habilidades para alcançar resultados incríveis!
 
  <br>
  <br>
